@@ -1,4 +1,10 @@
-.
+# DePrivy
+
+> [!NOTE]
+> FOR EDUCATIONAL PURPOSES ONLY
+
+
+```
 ├── @privy-io
 │   ├── api-base
 │   │   ├── LICENSE
